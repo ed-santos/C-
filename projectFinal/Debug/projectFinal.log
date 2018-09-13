@@ -1,0 +1,14 @@
+﻿  projectFinal.cpp
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(370): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(371): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(397): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(398): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(414): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(415): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(416): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(619): warning C4129: 'm': unrecognized character escape sequence
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(646): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(647): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\edward santos\documents\visual studio 2015\projects\projectfinal\projectfinal\projectfinal.cpp(648): warning C4305: 'initializing': truncation from 'double' to 'float'
+  projectFinal.vcxproj -> C:\Users\Edward Santos\Documents\Visual Studio 2015\Projects\projectFinal\Debug\projectFinal.exe
+  projectFinal.vcxproj -> C:\Users\Edward Santos\Documents\Visual Studio 2015\Projects\projectFinal\Debug\projectFinal.pdb (Full PDB)
